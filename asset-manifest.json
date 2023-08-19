@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/juliakoa/goit-react-hw-01-components.git/static/css/main.7acaea2f.css",
-    "main.js": "/juliakoa/goit-react-hw-01-components.git/static/js/main.07d3183d.js",
+    "main.css": "/juliakoa/goit-react-hw-01-components.git/static/css/main.a2c1446f.css",
+    "main.js": "/juliakoa/goit-react-hw-01-components.git/static/js/main.faffa520.js",
     "index.html": "/juliakoa/goit-react-hw-01-components.git/index.html",
-    "main.7acaea2f.css.map": "/juliakoa/goit-react-hw-01-components.git/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/juliakoa/goit-react-hw-01-components.git/static/js/main.07d3183d.js.map"
+    "main.a2c1446f.css.map": "/juliakoa/goit-react-hw-01-components.git/static/css/main.a2c1446f.css.map",
+    "main.faffa520.js.map": "/juliakoa/goit-react-hw-01-components.git/static/js/main.faffa520.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.a2c1446f.css",
+    "static/js/main.faffa520.js"
   ]
 }
